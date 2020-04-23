@@ -1,0 +1,9 @@
+[submodule "themes/rocinante"]
+	path = themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "themes/marfa"]
+	path = themes/marfa
+	url = https://github.com/microdotblog/theme-marfa.git
