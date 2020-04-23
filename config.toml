@@ -1,0 +1,32 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "micro.lmcly.fyi"
+theme = "marfa"
+description = "This is a description."
+pluralizelisttitles = "false"
+
+mainSections = ["post"]
+
+twitter_username = ""
+github_username = ""
+instagram_username = ""
+
+paginate_categories = "false"
+paginate_replies = "false"
+paginate_home = "false"
+
+[Author]
+
+name = "Lee Macaulay"
+username = "lmcly"
+avatar = "https://s.gravatar.com/avatar/0248854cf9b7bf90b98cd954a90d5da6?s=80"
+email = "lee@mixmultiply.com"
+
+[taxonomies]
+category = "categories"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[frontmatter]
+type = "post"
